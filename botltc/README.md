@@ -3,11 +3,11 @@ tested 4.April.2019 !!
 
 du brauchst:
 
-**1.Termux **
-%
+1.Termux neu installieren
+
 2.Download Free Litecoin Spinner. Earn Litecoin https://ltc.coinspinner.me/c/7X6Y6W
-%
-> 3.https://play.google.com/store/apps/details?id=com.evozi.deviceid
+
+3.https://play.google.com/store/apps/details?id=com.evozi.deviceid
 
 
 termux-setup-storage
