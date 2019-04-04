@@ -2,10 +2,11 @@ Termux Bot Claim LTC
 tested 4.April.2019 !!
 
 du brauchst:
+
 1.Termux
-2.Free Spinner for LTC
-3.Device ID free !!
-alles erhältlich im Playstore
+2.Download Free Litecoin Spinner. Earn Litecoin https://ltc.coinspinner.me/c/7X6Y6W
+3.https://play.google.com/store/apps/details?id=com.evozi.deviceid
+
 
 apt update && apt upgrade -y
 pkg install nano 
