@@ -22,9 +22,9 @@ pkg install git -y
 
 pkg install php -y
 
-git clone https://github.com/GottModusTermux/forme/botltc.git
+git clone https://github.com/GottModusTermux/forme
 
-cd botltc
+cd forme/botltc
 
 nano config.php
 
