@@ -9,6 +9,8 @@ du brauchst:
 
 3.https://play.google.com/store/apps/details?id=com.evozi.deviceid
 
+**
+
 
 termux-setup-storage
 
