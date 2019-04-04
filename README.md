@@ -1,0 +1,2 @@
+# forme
+termux tools install
